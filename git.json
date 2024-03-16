@@ -1,12 +1,14 @@
 [
     {
-    "url": "https://qauto2.forstudy.space/api-docs/#",
+    "oldurl": "https://qauto2.forstudy.space/api-docs/#",
     "login": "guest",
-    "password": "welcome2qauto"
+    "password": "welcome2qauto",
+    "URL": "https://qauto.forstudy.space/api",
     },
     {
-    "url": "https://qauto.forstudy.space/api-docs/#/",
+    "oldurl": "https://qauto.forstudy.space/api-docs/#/",
     "login": "guest",
-    "password": "welcome2qauto"
+    "password": "welcome2qauto",
+    "URL": "https://qauto2.forstudy.space/api"
     }
 ]
